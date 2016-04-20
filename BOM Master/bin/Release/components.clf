@@ -1,0 +1,22 @@
+RT$SMD Resistors
+PR$PTC
+VS$Variastor
+DI$Diodes
+IC$ICs
+TT$Optical
+RC$Optical
+LD$Leds
+TR$Transistors
+SW$Switch
+QC$Crystal
+BZ$Buzzer
+CL$Coils
+HD$Header
+CD$LCD
+CN$Connector
+BT$Battery
+JW$Jumper wire
+PB$PCB
+SD$Smart Card
+AN$Antenna
+CS$Capacitors

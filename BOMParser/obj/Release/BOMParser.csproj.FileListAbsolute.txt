@@ -1,0 +1,5 @@
+D:\Work\Sewedy Electrometer\BOM Master\BOMParser\bin\Release\BOMParser.dll
+D:\Work\Sewedy Electrometer\BOM Master\BOMParser\bin\Release\BOMParser.pdb
+D:\Work\Sewedy Electrometer\BOM Master\BOMParser\obj\Release\BOMParser.dll
+D:\Work\Sewedy Electrometer\BOM Master\BOMParser\obj\Release\BOMParser.pdb
+D:\Work\Sewedy Electrometer\BOM Master\BOMParser\bin\Release\Microsoft.Office.Interop.Excel.dll

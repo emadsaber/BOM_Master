@@ -1,0 +1,6 @@
+D:\Work\Sewedy Electrometer\BOM Master\BOMParser\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Work\Sewedy Electrometer\BOM Master\BOMParser\bin\Debug\BOMParser.dll
+D:\Work\Sewedy Electrometer\BOM Master\BOMParser\bin\Debug\BOMParser.pdb
+D:\Work\Sewedy Electrometer\BOM Master\BOMParser\obj\Debug\BOMParser.dll
+D:\Work\Sewedy Electrometer\BOM Master\BOMParser\obj\Debug\BOMParser.pdb
+D:\Work\Sewedy Electrometer\BOM Master\BOMParser\obj\Debug\BOMParser.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+=========================================
+		BOM Master			              
+=========================================
+This programs is intended for use inside El-Sewedy Electrometer Egypt. This program processes and formats the Bill Of Material (BOM) in a suitable format, to make BOM portable to other departments. This program is a property for R&D department, and not targetting purchasing purposes and commercial issues.
+Design, Implementation : Eng. Emad Saber
+Copyrights: R&D Department	      
+Company: El-Sewedy Electrometer Egypt
+=========================================

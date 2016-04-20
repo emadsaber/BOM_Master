@@ -1,0 +1,25 @@
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Debug\components.clf
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Debug\BOM Master.exe.config
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Debug\BOM Master.exe.manifest
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Debug\BOM Master.application
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Debug\BOM Master.exe
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Debug\BOM Master.pdb
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Debug\BOMParser.dll
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Debug\BOMParser.pdb
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\obj\x86\Debug\BOM_Master.csprojResolveAssemblyReference.cache
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\obj\x86\Debug\BOM_Master.frmShowReport.resources
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\obj\x86\Debug\BOM_Master.PL.frmSplash.resources
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\obj\x86\Debug\BOM_Master.PL.frmComponentsGenerator.resources
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\obj\x86\Debug\BOM_Master.frmMain.resources
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\obj\x86\Debug\BOM_Master.Properties.Resources.resources
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\obj\x86\Debug\BOM_Master.csproj.GenerateResource.Cache
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\obj\x86\Debug\BOM Master.exe.manifest
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\obj\x86\Debug\BOM Master.application
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\obj\x86\Debug\BOM Master.exe
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\obj\x86\Debug\BOM Master.pdb
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Debug\CrystalDecisions.Shared.dll
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Debug\Microsoft.ReportViewer.WinForms.dll

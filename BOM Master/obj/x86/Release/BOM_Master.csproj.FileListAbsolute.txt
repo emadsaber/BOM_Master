@@ -1,0 +1,26 @@
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Release\BOM Master.exe.config
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Release\components.clf
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Release\BOM Master.exe.manifest
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Release\BOM Master.application
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Release\BOM Master.exe
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Release\BOM Master.pdb
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Release\BOMParser.dll
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Release\CrystalDecisions.ReportSource.dll
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Release\CrystalDecisions.Shared.dll
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\bin\Release\BOMParser.pdb
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\obj\x86\Release\BOM_Master.csprojResolveAssemblyReference.cache
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\obj\x86\Release\BOM_Master.frmShowReport.resources
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\obj\x86\Release\BOM_Master.PL.frmSplash.resources
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\obj\x86\Release\BOM_Master.PL.frmComponentsGenerator.resources
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\obj\x86\Release\BOM_Master.frmMain.resources
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\obj\x86\Release\BOM_Master.Properties.Resources.resources
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\obj\x86\Release\BOM_Master.csproj.GenerateResource.Cache
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\obj\x86\Release\BOM Master.exe.manifest
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\obj\x86\Release\BOM Master.application
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\obj\x86\Release\BOM Master.exe
+D:\Work\Sewedy Electrometer\BOM Master\BOM Master\obj\x86\Release\BOM Master.pdb
